@@ -1,0 +1,4 @@
+# Project exclude paths
+/createods/target/
+/flink-demo/target/
+/flinkcdctest/target/
